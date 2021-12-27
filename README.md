@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xlehmar
-- 👀 I’m interested in Astronomy, Physics, Neural Networks, Amateur Radio, Paragliding
-- 🌱 I’m currently learning Modern C++
+- 👀 I’m interested in Astronomy, Physics, Consciousness, Amateur Radio, Paragliding
+- 🌱 I’m currently learning Modern C++ and Github
 - 📫 How to reach me? xlehmar@googlemail.com
 
 <!---
